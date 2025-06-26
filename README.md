@@ -24,6 +24,6 @@ pip install -r requirement.txt​
   -   utils.py：包含训练过程中的实用工具函数，如数据预处理、模型评估辅助函数等，为训练提供支持。​
   -   model 文件夹：存储 DV-LLaMA 模型的结构定义、参数文件等核心内容。​
 
-'''
+
 本项目的 arXiv 地址：https://arxiv.org/abs/2503.15887，已收录于 ICASSP2025。使用过程中若有任何问题或建议，欢迎提交 Issue 交流，期待您基于本开源项目开展更深入的研究！​
-'''
+
