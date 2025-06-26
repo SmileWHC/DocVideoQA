@@ -20,6 +20,7 @@ pip install -r requirement.txt​
 ### code 文件夹​
   - Baseline 文件夹：存放 MiniGPT - 4、Video - ChatGPT、Video - LLaMA 等开源模型的相关代码或配置文件，作为对比基线，便于直观展现 DV-LLaMA 模型的优势。​
   - DV-LLaMA 文件夹​
+
     -- train.py：DV-LLaMA 模型的训练代码，实现多阶段训练流程，逐步优化模型对文档视频的理解能力。​
     -- utils.py：包含训练过程中的实用工具函数，如数据预处理、模型评估辅助函数等，为训练提供支持。​
     -- model 文件夹：存储 DV-LLaMA 模型的结构定义、参数文件等核心内容。​
